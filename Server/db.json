@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Sunset Glow",
+      "artist": "Alex Turner",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imageUrl": "http://localhost:3001/images/afonso-morais-zV3Amsq1nCw-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Midnight Stars",
+      "artist": "Elena Martinez",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imageUrl": "http://localhost:3001/images/eugenivy_now-dNmaNB5L1mk-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ocean Serenity",
+      "artist": "Samuel Johnson",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imageUrl": "http://localhost:3001/images/hudson-graves-eRcjQb45ZYs-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Urban Reflections",
+      "artist": "Sophia Lee",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imageUrl": "http://localhost:3001/images/kristaps-ungurs-7czWFQfRwiY-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Misty Mountains",
+      "artist": "Daniel Smith",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imageUrl": "http://localhost:3001/images/theline-iHJidchOgkE-unsplash.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Autumn Leaves",
+      "artist": "Isabella Brown",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imageUrl": "http://localhost:3001/images/aachal-Gu23zyqtQ8U-unsplash.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Whimsical Dreams",
+      "artist": "Oliver White",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imageUrl": "http://localhost:3001/images/noah-buscher-TBFhGVqj8ak-unsplash.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Enchanted Forest",
+      "artist": "Emma Thompson",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imageUrl": "http://localhost:3001/images/paul-blenkhorn-tYDjgdmjcz8-unsplash.jpg"
+    },
+    {
+      "id": 9,
+      "name": "City Skylines",
+      "artist": "Lucas Miller",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imageUrl": "http://localhost:3001/images/simon-maage-RLhBpw4k55s-unsplash.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Wildflower Meadows",
+      "artist": "Ava Wilson",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imageUrl": "http://localhost:3001/images/stas-ostrikov-9-BwCI49nu8-unsplash.jpg"
+    }
+  ]
+  
